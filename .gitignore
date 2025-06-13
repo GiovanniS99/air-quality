@@ -1,0 +1,16 @@
+# venv
+.venv/
+
+# air_quality_data
+air_quality_data
+
+# __pycache__
+__pycache__
+
+# Python cache files
+*.pyc
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Jupyter Notebook metadata
+.metadata
